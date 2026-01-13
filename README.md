@@ -22,8 +22,8 @@ make run file=raytracer-files/ray-shadow-plane.txt
 ### WebGL2 Warmup  
 My edits - Midnight Starry Swirl:   
 My first experiments with colors, **vertex and fragment shaders**, mathematical motion equations, and shapes.  
-<img width="414" height="234" alt="Screenshot 2026-01-05 at 10 35 17 PM" src="https://github.com/user-attachments/assets/fd69492d-87d9-44cb-b398-84a9086ea7cc" />
-![trim BC1E4A7B-D773-4B99-A819-F31592DD7BAB](https://github.com/user-attachments/assets/6d16811b-2268-4d83-b259-1367e6893729)
+[<img width="414" height="234" alt="Screenshot 2026-01-05 at 10 35 17 PM" src="https://github.com/user-attachments/assets/fd69492d-87d9-44cb-b398-84a9086ea7cc" />](https://github-production-user-asset-6210df.s3.amazonaws.com/54867542/532223988-fd69492d-87d9-44cb-b398-84a9086ea7cc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260113T183649Z&X-Amz-Expires=300&X-Amz-Signature=01e4c6bc2257dd831afe566ea429a18ba4d22cff9f0159bc9823c3cd6bea9900&X-Amz-SignedHeaders=host)
+[![trim BC1E4A7B-D773-4B99-A819-F31592DD7BAB](https://github.com/user-attachments/assets/6d16811b-2268-4d83-b259-1367e6893729)](https://github-production-user-asset-6210df.s3.amazonaws.com/54867542/532223739-6d16811b-2268-4d83-b259-1367e6893729.GIF?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260113T183652Z&X-Amz-Expires=300&X-Amz-Signature=089c68a04af7015c26bbdc906c7e27ce9a2c6da3890b62fb83f274b0d7f1404f&X-Amz-SignedHeaders=host)
 
 ### Logo  
 Learned to animate a 2D model using a matrix.
