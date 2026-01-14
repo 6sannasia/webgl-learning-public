@@ -37,7 +37,7 @@ Learned to send a model once to the GPU and draw that one copy multiple times pe
 
 
 ### Terrain   
-Learned a simple fracture-based fractal. Used diffuse and specular lighting, namely Lambert and Blinn-Phong respectively. Had to use an Earth tone defined by 1>r>g>b>0, which was an unexpectedly cool way to explore color theory through graphics programming. Made sure the lighting was fixed relative to the terrain.
+Learned a simple fracture-based fractal. Used diffuse and specular lighting, namely Lambert and Blinn-Phong respectively. Had to use an Earth tone defined by 1>r>g>b>0, which was an unexpectedly cool way to explore color theory through graphics programming. Made sure the lighting was fixed relative to the terrain.  
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/terrain1.png" width="40%">
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/terrain2.png" width="40%">
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/terrain3.png" width="40%">
