@@ -60,10 +60,9 @@ Learned about raytracing, different light sources located in or infinitely far f
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/raytracer1.png" width="40%"> 
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/raytracer2.png" width="40%">
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/raytracer3.png" width="40%">
-<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/raytracer_elements.png" width="40%">
 
 Elements:  
-<img width="378" height="559" alt="Screenshot 2026-01-05 at 11 59 33 PM" src="https://github.com/user-attachments/assets/4642cc69-a23e-41bb-8866-07c4bfb0e6db" />
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/raytracer_elements.png" width="50%">
 
 
 
