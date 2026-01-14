@@ -22,8 +22,8 @@ make run file=raytracer-files/ray-shadow-plane.txt
 ### WebGL2 Warmup  
 My edits - Midnight Starry Swirl:   
 My first experiments with colors, **vertex and fragment shaders**, mathematical motion equations, and shapes.  
-[<img width="414" height="234" alt="Screenshot 2026-01-05 at 10 35 17 PM" src="https://github.com/user-attachments/assets/fd69492d-87d9-44cb-b398-84a9086ea7cc" />](https://github-production-user-asset-6210df.s3.amazonaws.com/54867542/532223988-fd69492d-87d9-44cb-b398-84a9086ea7cc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260113T183649Z&X-Amz-Expires=300&X-Amz-Signature=01e4c6bc2257dd831afe566ea429a18ba4d22cff9f0159bc9823c3cd6bea9900&X-Amz-SignedHeaders=host)
-[![trim BC1E4A7B-D773-4B99-A819-F31592DD7BAB](https://github.com/user-attachments/assets/6d16811b-2268-4d83-b259-1367e6893729)](https://github-production-user-asset-6210df.s3.amazonaws.com/54867542/532223739-6d16811b-2268-4d83-b259-1367e6893729.GIF?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260113T183652Z&X-Amz-Expires=300&X-Amz-Signature=089c68a04af7015c26bbdc906c7e27ce9a2c6da3890b62fb83f274b0d7f1404f&X-Amz-SignedHeaders=host)
+<img width="414" height="234" alt="Screenshot 2026-01-05 at 10 35 17 PM" src="https://github.com/user-attachments/assets/fd69492d-87d9-44cb-b398-84a9086ea7cc" />
+![trim BC1E4A7B-D773-4B99-A819-F31592DD7BAB](https://github.com/user-attachments/assets/6d16811b-2268-4d83-b259-1367e6893729)
 
 ### Logo  
 Learned to animate a 2D model using a matrix.
@@ -31,16 +31,16 @@ Learned to animate a 2D model using a matrix.
 
 ### Orbits   
 Learned to send a model once to the GPU and draw that one copy multiple times per frame. Learned to set models at different origins and rotate around other models or axes.
-<img width="376" height="250" alt="Screenshot 2026-01-05 at 10 45 30 PM" src="https://github.com/user-attachments/assets/94ef6a40-3c6c-4319-a9fe-403d33b0e43c" />  
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/Orbit1.png" width="50%">  
 
 ![trim 7F6FBAC6-5131-4CD8-9585-9C3125A236F6](https://github.com/user-attachments/assets/0322b72d-61ca-4ed6-b95e-ae5f230932f6)
 
 
 ### Terrain   
 Learned a simple fracture-based fractal. Used diffuse and specular lighting, namely Lambert and Blinn-Phong respectively. Had to use an Earth tone defined by 1>r>g>b>0, which was an unexpectedly cool way to explore color theory through graphics programming. Made sure the lighting was fixed relative to the terrain.
-<img width="328" height="590" alt="Screenshot 2026-01-05 at 10 58 05 PM" src="https://github.com/user-attachments/assets/5d6b6e10-5257-45f6-930a-7d69f5036faa" />
-<img width="297" height="540" alt="Screenshot 2026-01-05 at 10 57 55 PM" src="https://github.com/user-attachments/assets/0b93861e-6039-4e2d-a9cd-fdf8fc7a078b" />
-<img width="349" height="579" alt="Screenshot 2026-01-05 at 11 02 07 PM" src="https://github.com/user-attachments/assets/c6177ed7-1c88-4a0a-b424-6f32fa34ce54" />  
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/terrain1.png" width="40%">
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/terrain2.png" width="40%">
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/terrain3.png" width="40%">
 
 ![trim 10ADEE18-1DA5-496F-9526-BF842B9C249D](https://github.com/user-attachments/assets/ff1e98be-6796-4e87-b1da-965996d9715a)
 
@@ -49,11 +49,11 @@ Learned a simple fracture-based fractal. Used diffuse and specular lighting, nam
 Learned to control camera movement, rotation, and position using key presses, time, and frame drawing coordination. Example video's shown under TV Snow.  
 
 ### Textures   
-Learned how to change materials immediately and apply them as a texture, even from a png.  
-<img width="248" height="685" alt="Screenshot 2026-01-06 at 12 08 49 AM" src="https://github.com/user-attachments/assets/acbcad19-ae79-494c-8415-fb294a4e53f1" />
-<img width="248" height="679" alt="Screenshot 2026-01-06 at 12 11 07 AM" src="https://github.com/user-attachments/assets/3e9e839f-753b-4030-9c27-f682d0a552bf" />
-<img width="261" height="664" alt="Screenshot 2026-01-06 at 12 11 30 AM" src="https://github.com/user-attachments/assets/50046242-cc20-40ac-b102-9af2d78702a4" />
-<img width="295" height="556" alt="Screenshot 2026-01-06 at 12 12 53 AM" src="https://github.com/user-attachments/assets/351994c6-5374-4797-9173-dfbdd83d056e" />  
+Learned how to change materials immediately and apply them as a texture, even from a png.
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/textures1.png" width="35%">
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/textures2.png" width="35%">
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/textures3.png" width="35%">
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/textures4.png" width="55%">
 
 ### Raytracer in C++
 Learned about raytracing, different light sources located in or infinitely far from the scene, how different geometries affect shadows, the intersection math behind shadow ray calculations, incorporating texture maps, etc.   
@@ -68,7 +68,7 @@ Elements:
 
 ### Spheres   
 Incorporated sphere physics like momentum, gravity, collisions and elasticity to create realistic movement between spheres in a box. Used random colors, and specular and diffuse lighting.
-<img width="386" height="350" alt="Screenshot 2026-01-05 at 10 47 34 PM" src="https://github.com/user-attachments/assets/04da2071-b6a0-40a0-8435-074defa651c0" />  
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/spheres1.png" width="40%"> 
 
 ![trim 30CB3D9E-80DD-49FF-9E30-3F42853F4B70](https://github.com/user-attachments/assets/26acfbbf-daad-43a4-8810-0eeedaf29b8f)
 
@@ -76,7 +76,7 @@ Incorporated sphere physics like momentum, gravity, collisions and elasticity to
 ## Elective MPs  
 ### Cliffs  
 Colored the terrain differently based on slope steepness.  
-<img width="263" height="416" alt="Screenshot 2026-01-06 at 12 22 04 AM" src="https://github.com/user-attachments/assets/0d634dc6-c1d6-4c02-acdf-ab7fc5272099" />
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/cliffs1.png" width="40%"> 
 
 ### CPU Jitter  
 
@@ -94,18 +94,18 @@ Used an exponential fall-off equation to simulate fog.
 ![trim 3B915841-3767-43B1-A220-6757CD70245D](https://github.com/user-attachments/assets/fb157cfc-0b94-44ab-b57c-fbb403a1ad4c)
 
 ### Height Map  
-<img width="260" height="479" alt="Screenshot 2026-01-06 at 12 25 26 AM" src="https://github.com/user-attachments/assets/5013937c-1767-4834-9ca6-b866327eb59b" />
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/height_map1.png" width="40%"> 
 
 ### Lineograph 
 Moved the model based on keys without clearing the canvas.
 ![trim 48DD8E9D-1869-407F-B192-EFC1967DF6FC](https://github.com/user-attachments/assets/796d899c-ebe4-4617-a7ba-72bf44c64388)
 
 ### Obj  
-<img width="313" height="537" alt="Screenshot 2026-01-06 at 12 31 33 AM" src="https://github.com/user-attachments/assets/329bc4eb-5355-49bd-a46f-715ebcd28d32" />
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/obj1.png" width="50%"> 
 
 ### Parametric  
-<img width="300" height="574" alt="Screenshot 2026-01-06 at 12 32 43 AM" src="https://github.com/user-attachments/assets/74fe234f-88d4-467d-85d8-40eeaa6dddc0" />
-<img width="304" height="579" alt="Screenshot 2026-01-06 at 12 32 35 AM" src="https://github.com/user-attachments/assets/73f5a6d1-c99e-4dcc-9242-726b66d747b2" />
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/parametric1.png" width="40%"> 
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/parametric2.png" width="40%"> 
 
 ### Psychadelics  
 Learned to use time, space, and math to color and move each fragment differently and smoothly.
@@ -113,8 +113,8 @@ Learned to use time, space, and math to color and move each fragment differently
 
 ### Weathering  
 Simulated spheroidal weathering by replacing the height of a vertex by the average of itself and its neighbors, repeated a few times. 
-<img width="263" height="581" alt="Screenshot 2026-01-06 at 12 35 08 AM" src="https://github.com/user-attachments/assets/c658ab4b-6c89-48a6-954e-0c0e951ed181" />
-<img width="233" height="594" alt="Screenshot 2026-01-06 at 12 35 00 AM" src="https://github.com/user-attachments/assets/86008e06-2bb4-4735-b22f-6d9b2b28dd06" />
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/weathering1.png" width="40%"> 
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/weathering2.png" width="40%"> 
 
 
 
@@ -125,14 +125,9 @@ I thought it'd be cool to understand TV snow's orderly randomness.
 Also, its chaos and connotations with "loss of connection" inspire me 
 to use it in future projects like visualizing feelings of overwhelmedness, detachment, or numbness.    
 
-<img width="526" height="380" alt="Screenshot 2026-01-05 at 9 04 43 PM" src="https://github.com/user-attachments/assets/e09fe378-1100-427a-b767-85c91d3eb8ac" />   
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/TVsnow1.png" width="40%">   
 
 Also showcasing **Blinn-Phong** and **Lambert** lighting techniques as amplified below.
-<img width="529" height="395" alt="Screenshot 2026-01-05 at 9 04 57 PM" src="https://github.com/user-attachments/assets/cc40fb56-5b2f-4534-9bfd-445061311494" />  
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/TVsnow2.png" width="40%">   
 
 ![trim B73DF5C2-B780-44C4-A4AD-35133E58096E](https://github.com/user-attachments/assets/8df1bf48-db51-4c97-a021-a832813473c3)
-
-
-
-
-
