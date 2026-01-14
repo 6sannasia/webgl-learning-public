@@ -57,9 +57,10 @@ Learned how to change materials immediately and apply them as a texture, even fr
 
 ### Raytracer in C++
 Learned about raytracing, different light sources located in or infinitely far from the scene, how different geometries affect shadows, the intersection math behind shadow ray calculations, incorporating texture maps, etc.   
-<img width="300" height="505" alt="Screenshot 2026-01-05 at 11 18 36 PM" src="https://github.com/user-attachments/assets/d9c5e8ae-97e6-4ed8-bc20-ef9dc0d96c13" /> 
-<img width="300" height="346" alt="Screenshot 2026-01-06 at 12 00 35 AM" src="https://github.com/user-attachments/assets/5eae23db-e2f9-4dc8-bf5c-d6d77adcf8b6" />
-<img width="300" height="640" alt="Screenshot 2026-01-06 at 12 01 40 AM" src="https://github.com/user-attachments/assets/56648081-f56c-4073-8611-7a9742584ff3" />
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/raytracer1.png" width="40%"> 
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/raytracer2.png" width="40%">
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/raytracer3.png" width="40%">
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/raytracer_elements.png" width="40%">
 
 Elements:  
 <img width="378" height="559" alt="Screenshot 2026-01-05 at 11 59 33 PM" src="https://github.com/user-attachments/assets/4642cc69-a23e-41bb-8866-07c4bfb0e6db" />
