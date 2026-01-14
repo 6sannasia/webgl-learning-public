@@ -22,7 +22,7 @@ make run file=raytracer-files/ray-shadow-plane.txt
 ### WebGL2 Warmup  
 My edits - Midnight Starry Swirl:   
 My first experiments with colors, **vertex and fragment shaders**, mathematical motion equations, and shapes.  
-<img width="414" height="234" alt="Screenshot 2026-01-05 at 10 35 17 PM" src="https://github.com/user-attachments/assets/fd69492d-87d9-44cb-b398-84a9086ea7cc" />
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/starry_swirl1.png" width="55%">  
 ![trim BC1E4A7B-D773-4B99-A819-F31592DD7BAB](https://github.com/user-attachments/assets/6d16811b-2268-4d83-b259-1367e6893729)
 
 ### Logo  
