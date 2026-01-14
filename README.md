@@ -18,7 +18,7 @@ make build
 make run file=raytracer-files/ray-shadow-plane.txt
 ```
 
-## MP Highlights
+## Core MPs
 ### WebGL2 Warmup  
 My edits - Midnight Starry Swirl:   
 My first experiments with colors, **vertex and fragment shaders**, mathematical motion equations, and shapes.  
