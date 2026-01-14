@@ -23,26 +23,27 @@ make run file=raytracer-files/ray-shadow-plane.txt
 My edits - Midnight Starry Swirl:   
 My first experiments with colors, **vertex and fragment shaders**, mathematical motion equations, and shapes.  
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/starry_swirl1.png" width="55%">  
-![trim BC1E4A7B-D773-4B99-A819-F31592DD7BAB](https://github.com/user-attachments/assets/6d16811b-2268-4d83-b259-1367e6893729)
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/gifs/starryswirl.gif" width="65%">  
+
 
 ### Logo  
 Learned to animate a 2D model using a matrix.  
-![trim 90A16EFE-976F-4285-9ECA-0C0AC4E898C6](https://github.com/user-attachments/assets/dc948bdd-0169-4d5b-95e3-80c217a7b274)
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/gifs/logo.gif" width="45%">  
 
 ### Orbits   
 Learned to send a model once to the GPU and draw that one copy multiple times per frame. Learned to set models at different origins and rotate around other models or axes.  
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/Orbit1.png" width="50%">  
 
-![trim 7F6FBAC6-5131-4CD8-9585-9C3125A236F6](https://github.com/user-attachments/assets/0322b72d-61ca-4ed6-b95e-ae5f230932f6)
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/gifs/orbits.gif" width="65%">  
 
 
 ### Terrain   
 Learned a simple fracture-based fractal. Used diffuse and specular lighting, namely Lambert and Blinn-Phong respectively. Had to use an Earth tone defined by 1>r>g>b>0, which was an unexpectedly cool way to explore color theory through graphics programming. Made sure the lighting was fixed relative to the terrain.   
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/terrain1.png" width="40%">
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/terrain2.png" width="40%">
-<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/terrain3.png" width="40%">
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/terrain3.png" width="40%">  
 
-![trim 10ADEE18-1DA5-496F-9526-BF842B9C249D](https://github.com/user-attachments/assets/ff1e98be-6796-4e87-b1da-965996d9715a)
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/gifs/terrain.gif" width="65%">  
 
 
 ### Flight 
@@ -53,16 +54,16 @@ Learned how to change materials immediately and apply them as a texture, even fr
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/textures1.png" width="35%">
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/textures2.png" width="35%">
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/textures3.png" width="35%">
-<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/textures4.png" width="55%">
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/textures4.png" width="55%">  
 
 ### Raytracer in C++
 Learned about raytracing, different light sources located in or infinitely far from the scene, how different geometries affect shadows, the intersection math behind shadow ray calculations, incorporating texture maps, etc.   
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/raytracer1.png" width="40%"> 
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/raytracer2.png" width="40%">
-<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/raytracer3.png" width="40%">
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/raytracer3.png" width="40%">  
 
 Elements:  
-<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/raytracer_elements.png" width="50%">
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/raytracer_elements.png" width="50%">  
 
 
 
@@ -70,46 +71,45 @@ Elements:
 Incorporated sphere physics like momentum, gravity, collisions and elasticity to create realistic movement between spheres in a box. Used random colors, and specular and diffuse lighting.  
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/spheres1.png" width="40%"> 
 
-![trim 30CB3D9E-80DD-49FF-9E30-3F42853F4B70](https://github.com/user-attachments/assets/26acfbbf-daad-43a4-8810-0eeedaf29b8f)
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/gifs/spheres.gif" width="65%">  
 
 
 ## Elective MPs  
 ### Cliffs  
 Colored the terrain differently based on slope steepness.  
-<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/cliffs1.png" width="40%"> 
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/gifs/cliffs.gif" width="65%">   
 
 ### CPU Jitter  
 
-![trim 28320DE2-C508-47CF-AF4D-E7ADE05C7798](https://github.com/user-attachments/assets/3fb29baa-c60e-4b84-a8c4-25ce645fc0ba)
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/gifs/CPUjitter.gif" width="45%">  
 
 ### GPU Jitter  
 
-![trim DEF49291-6891-4FA9-9532-9B5C1C30CC75](https://github.com/user-attachments/assets/e721d2a7-469f-4a24-a8ae-0179f315e7de)
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/gifs/GPUjitter.gif" width="45%">  
 
 ### Drive  
 Seen under TV Snow  
 
 ### Fog  
 Used an exponential fall-off equation to simulate fog.  
-![trim 3B915841-3767-43B1-A220-6757CD70245D](https://github.com/user-attachments/assets/fb157cfc-0b94-44ab-b57c-fbb403a1ad4c)
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/gifs/fog.gif" width="65%">  
 
 ### Height Map  
-<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/height_map1.png" width="40%"> 
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/gifs/height_map.gif" width="65%">   
 
 ### Lineograph 
 Moved the model based on keys without clearing the canvas.  
-![trim 48DD8E9D-1869-407F-B192-EFC1967DF6FC](https://github.com/user-attachments/assets/796d899c-ebe4-4617-a7ba-72bf44c64388)
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/gifs/lineograph.gif" width="45%">  
 
 ### Obj  
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/obj1.png" width="50%"> 
 
 ### Parametric  
-<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/parametric1.png" width="40%"> 
-<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/parametric2.png" width="40%"> 
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/parametric1.png" width="40%">  <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/parametric2.png" width="40%"> 
 
 ### Psychadelics  
 Learned to use time, space, and math to color and move each fragment differently and smoothly.  
-![trim FC9060BD-9943-422B-986C-55F16B97C1BA](https://github.com/user-attachments/assets/b1b1d865-351a-44be-9ca4-fabb387fcd46)
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/gifs/psychadelic.gif" width="65%">  
 
 ### Weathering  
 Simulated spheroidal weathering by replacing the height of a vertex by the average of itself and its neighbors, repeated a few times.  
@@ -125,9 +125,9 @@ I thought it'd be cool to understand TV snow's orderly randomness.
 Also, its chaos and connotations with "loss of connection" inspire me 
 to use it in future projects like visualizing feelings of overwhelmedness, detachment, or numbness.    
 
-<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/TVsnow1.png" width="40%">   
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/TVsnow1.png" width="45%">   
 
 Also showcasing **Blinn-Phong** and **Lambert** lighting techniques as amplified below.  
-<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/TVsnow2.png" width="40%">   
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/TVsnow2.png" width="45%">   
 
-![trim B73DF5C2-B780-44C4-A4AD-35133E58096E](https://github.com/user-attachments/assets/8df1bf48-db51-4c97-a021-a832813473c3)
+<img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/gifs/TVsnow.gif" width="65%">  
