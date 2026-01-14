@@ -26,18 +26,18 @@ My first experiments with colors, **vertex and fragment shaders**, mathematical 
 ![trim BC1E4A7B-D773-4B99-A819-F31592DD7BAB](https://github.com/user-attachments/assets/6d16811b-2268-4d83-b259-1367e6893729)
 
 ### Logo  
-Learned to animate a 2D model using a matrix.
+Learned to animate a 2D model using a matrix.  
 ![trim 90A16EFE-976F-4285-9ECA-0C0AC4E898C6](https://github.com/user-attachments/assets/dc948bdd-0169-4d5b-95e3-80c217a7b274)
 
 ### Orbits   
-Learned to send a model once to the GPU and draw that one copy multiple times per frame. Learned to set models at different origins and rotate around other models or axes.
+Learned to send a model once to the GPU and draw that one copy multiple times per frame. Learned to set models at different origins and rotate around other models or axes.  
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/Orbit1.png" width="50%">  
 
 ![trim 7F6FBAC6-5131-4CD8-9585-9C3125A236F6](https://github.com/user-attachments/assets/0322b72d-61ca-4ed6-b95e-ae5f230932f6)
 
 
 ### Terrain   
-Learned a simple fracture-based fractal. Used diffuse and specular lighting, namely Lambert and Blinn-Phong respectively. Had to use an Earth tone defined by 1>r>g>b>0, which was an unexpectedly cool way to explore color theory through graphics programming. Made sure the lighting was fixed relative to the terrain.  
+Learned a simple fracture-based fractal. Used diffuse and specular lighting, namely Lambert and Blinn-Phong respectively. Had to use an Earth tone defined by 1>r>g>b>0, which was an unexpectedly cool way to explore color theory through graphics programming. Made sure the lighting was fixed relative to the terrain.   
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/terrain1.png" width="40%">
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/terrain2.png" width="40%">
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/terrain3.png" width="40%">
@@ -49,7 +49,7 @@ Learned a simple fracture-based fractal. Used diffuse and specular lighting, nam
 Learned to control camera movement, rotation, and position using key presses, time, and frame drawing coordination. Example video's shown under TV Snow.  
 
 ### Textures   
-Learned how to change materials immediately and apply them as a texture, even from a png.
+Learned how to change materials immediately and apply them as a texture, even from a png.  
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/textures1.png" width="35%">
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/textures2.png" width="35%">
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/textures3.png" width="35%">
@@ -67,7 +67,7 @@ Elements:
 
 
 ### Spheres   
-Incorporated sphere physics like momentum, gravity, collisions and elasticity to create realistic movement between spheres in a box. Used random colors, and specular and diffuse lighting.
+Incorporated sphere physics like momentum, gravity, collisions and elasticity to create realistic movement between spheres in a box. Used random colors, and specular and diffuse lighting.  
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/spheres1.png" width="40%"> 
 
 ![trim 30CB3D9E-80DD-49FF-9E30-3F42853F4B70](https://github.com/user-attachments/assets/26acfbbf-daad-43a4-8810-0eeedaf29b8f)
@@ -87,17 +87,17 @@ Colored the terrain differently based on slope steepness.
 ![trim DEF49291-6891-4FA9-9532-9B5C1C30CC75](https://github.com/user-attachments/assets/e721d2a7-469f-4a24-a8ae-0179f315e7de)
 
 ### Drive  
-Seen under TV Snow
+Seen under TV Snow  
 
 ### Fog  
-Used an exponential fall-off equation to simulate fog.
+Used an exponential fall-off equation to simulate fog.  
 ![trim 3B915841-3767-43B1-A220-6757CD70245D](https://github.com/user-attachments/assets/fb157cfc-0b94-44ab-b57c-fbb403a1ad4c)
 
 ### Height Map  
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/height_map1.png" width="40%"> 
 
 ### Lineograph 
-Moved the model based on keys without clearing the canvas.
+Moved the model based on keys without clearing the canvas.  
 ![trim 48DD8E9D-1869-407F-B192-EFC1967DF6FC](https://github.com/user-attachments/assets/796d899c-ebe4-4617-a7ba-72bf44c64388)
 
 ### Obj  
@@ -108,11 +108,11 @@ Moved the model based on keys without clearing the canvas.
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/parametric2.png" width="40%"> 
 
 ### Psychadelics  
-Learned to use time, space, and math to color and move each fragment differently and smoothly.
+Learned to use time, space, and math to color and move each fragment differently and smoothly.  
 ![trim FC9060BD-9943-422B-986C-55F16B97C1BA](https://github.com/user-attachments/assets/b1b1d865-351a-44be-9ca4-fabb387fcd46)
 
 ### Weathering  
-Simulated spheroidal weathering by replacing the height of a vertex by the average of itself and its neighbors, repeated a few times. 
+Simulated spheroidal weathering by replacing the height of a vertex by the average of itself and its neighbors, repeated a few times.  
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/weathering1.png" width="40%"> 
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/weathering2.png" width="40%"> 
 
@@ -127,7 +127,7 @@ to use it in future projects like visualizing feelings of overwhelmedness, detac
 
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/TVsnow1.png" width="40%">   
 
-Also showcasing **Blinn-Phong** and **Lambert** lighting techniques as amplified below.
+Also showcasing **Blinn-Phong** and **Lambert** lighting techniques as amplified below.  
 <img src="https://github.com/6sannasia/webgl-learning-public/blob/main/media/TVsnow2.png" width="40%">   
 
 ![trim B73DF5C2-B780-44C4-A4AD-35133E58096E](https://github.com/user-attachments/assets/8df1bf48-db51-4c97-a021-a832813473c3)
